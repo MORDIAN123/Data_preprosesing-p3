@@ -1,0 +1,11 @@
+Age,Salary,Purchased,Country_France,Country_Germany,Country_Spain
+44.0,72000.0,0,True,False,False
+27.0,48000.0,1,False,False,True
+30.0,54000.0,0,False,True,False
+38.0,61000.0,0,False,False,True
+40.0,63777.77777777778,1,False,True,False
+35.0,58000.0,1,True,False,False
+38.77777777777778,52000.0,0,False,False,True
+48.0,79000.0,1,True,False,False
+50.0,83000.0,0,False,True,False
+37.0,67000.0,1,True,False,False
